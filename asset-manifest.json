@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/emoji-project/static/js/main.f3399581.js",
+    "index.html": "/emoji-project/index.html",
+    "main.f3399581.js.map": "/emoji-project/static/js/main.f3399581.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f3399581.js"
+  ]
+}
