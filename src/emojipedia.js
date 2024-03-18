@@ -155,7 +155,7 @@ const emojipedia = [
 {
   id:26,
   emoji:"😏",
-  name:"Smirking/Whimsical Face",
+  name:"Smirking Face",
   meaning:"With a sideways glance, raised eyebrows and a half-smile, the 😏 emoji expresses smugness, irony, coolness or playfulness. It is often used to convey flirtation or sexual innuendo, but use it with caution because sometimes someone might be up to something."
 },
 {
